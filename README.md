@@ -1,0 +1,1 @@
+The Panic Disorder Detection Dataset comprises a total of 120,000 records focusing on individuals diagnosed with Panic Disorder. The dataset is divided into two key files, with the "Panic_Disorder_training" file intended for training machine learning models. This training file encompasses 100,000 labeled records, providing a substantial amount of data for model development.
